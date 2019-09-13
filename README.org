@@ -1,0 +1,6 @@
+* happy hacking for STM32F407
+* 学习规划
+* 探索历程
+* 维护者联系方式
+- 微信： grey0612  添加时务必备注F407并说明自己的沟通目的
+- Email： greyzhang@126.com
