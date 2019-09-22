@@ -59,5 +59,7 @@ STLink的驱动安装方法，参考探索笔记N137
 **** 功能探索
 - Hello World
 没有找到printf的支持，但是找到了一个变量实时显示的功能，我觉得在嵌入式调试中这是一个更好用的printf。
+
 N138， 138_STM32F407_hello world： https://blog.csdn.net/grey_csdn/article/details/101160252
+
 相关代码： 02_hello_world
