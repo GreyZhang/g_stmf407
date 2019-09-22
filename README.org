@@ -7,7 +7,7 @@
 - 软件开发环境熟悉（DONE）
 - 调试器与烧写器的熟悉(DONE)
 - Hello World例程（DONE）
-- LED灯闪烁
+- LED灯闪烁(DONE)
 - 定时器与中断
 - 简单的周期性任务调度
 - RTOS
@@ -63,3 +63,7 @@ STLink的驱动安装方法，参考探索笔记N137
 N138， 138_STM32F407_hello world： https://blog.csdn.net/grey_csdn/article/details/101160252
 
 相关代码： 02_hello_world
+- LED灯闪烁
+N139， 实现以及测试说明： https://blog.csdn.net/grey_csdn/article/details/101163321
+
+相关代码： 03_led_blink
