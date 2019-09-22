@@ -6,7 +6,7 @@
 手头有一个ARM开发板，主芯片是STMF407。工作多年，这部分接触的比较少，我自己工作的行业开发中几乎用不到ARM芯片，也有着不同的开发模式。希望经过这么一个平台能够练练手，从中学到点不一样的东西。按照自己的经验，想来可能会又如下的练习项目：
 - 软件开发环境熟悉（DONE）
 - 调试器与烧写器的熟悉(DONE)
-- Hello World历程
+- Hello World例程（DONE）
 - LED灯闪烁
 - 定时器与中断
 - 简单的周期性任务调度
@@ -56,3 +56,8 @@ STLink的驱动安装方法，参考探索笔记N137
 **** 开发环境搭建
 - N136， 环境搭建的指导链接： https://blog.csdn.net/grey_csdn/article/details/101151913
 - N137， STLink驱动安装以及调试器使用测试： https://blog.csdn.net/grey_csdn/article/details/101158052
+**** 功能探索
+- Hello World
+没有找到printf的支持，但是找到了一个变量实时显示的功能，我觉得在嵌入式调试中这是一个更好用的printf。
+N138， 138_STM32F407_hello world： https://blog.csdn.net/grey_csdn/article/details/101160252
+相关代码： 02_hello_world
