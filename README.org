@@ -8,7 +8,8 @@
 - 调试器与烧写器的熟悉(DONE)
 - Hello World例程（DONE）
 - LED灯闪烁(DONE)
-- 定时器与中断
+- 周期性定时器中断(DONE)
+- 定时器
 - 简单的周期性任务调度
 - RTOS
 - ADC
@@ -63,7 +64,17 @@ STLink的驱动安装方法，参考探索笔记N137
 N138， 138_STM32F407_hello world： https://blog.csdn.net/grey_csdn/article/details/101160252
 
 相关代码： 02_hello_world
+
+
 - LED灯闪烁
 N139， 实现以及测试说明： https://blog.csdn.net/grey_csdn/article/details/101163321
 
 相关代码： 03_led_blink
+
+
+- 周期性定时器中断
+这个功能基本上是一个嵌入式软件开发很重要的一个开始，基于这个功能我们可以获得一个较为准确的时间判断以及周期性的调度。
+
+N140， 实现以及测试说明： https://blog.csdn.net/grey_csdn/article/details/101173457
+
+相关代码： 04_systick
