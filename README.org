@@ -85,3 +85,11 @@ N139， 实现以及测试说明： https://blog.csdn.net/grey_csdn/article/details/101163
 N140， 实现以及测试说明： https://blog.csdn.net/grey_csdn/article/details/101173457
 
 相关代码： 04_systick
+
+- 定时器之RTC
+
+一个计时时钟功能，同时支持日历。
+
+N142：https://blog.csdn.net/grey_csdn/article/details/101388097
+
+相关代码： 06_rtc
