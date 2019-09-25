@@ -10,7 +10,7 @@
 - LED灯闪烁(DONE)
 - 周期性定时器中断(DONE)
 - 定时器
-- 简单的周期性任务调度
+- 简单的周期性任务调度(DONE)
 - RTOS
 - ADC
 - CAN
@@ -93,3 +93,7 @@ N140， 实现以及测试说明： https://blog.csdn.net/grey_csdn/article/details/101173
 N142：https://blog.csdn.net/grey_csdn/article/details/101388097
 
 相关代码： 06_rtc
+
+- 简单的周期性任务调度
+
+N143， 一个简单的周期性任务调度的实现： https://blog.csdn.net/grey_csdn/article/details/101392096
