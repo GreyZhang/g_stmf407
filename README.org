@@ -107,3 +107,7 @@ N144, FreeRTOS运行初步： https://blog.csdn.net/grey_csdn/article/details/1014769
 N145, FreeRTOS运行卡死问题解决： https://blog.csdn.net/grey_csdn/article/details/101639504
 
 相关代码： 09_freertos_exp1
+
+N148， 利用IDE创建FreeRTOS Task： https://blog.csdn.net/grey_csdn/article/details/102070144
+
+相关代码： 10_freertos_exp2
