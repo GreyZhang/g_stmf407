@@ -111,3 +111,7 @@ N145, FreeRTOS运行卡死问题解决： https://blog.csdn.net/grey_csdn/article/details
 N148， 利用IDE创建FreeRTOS Task： https://blog.csdn.net/grey_csdn/article/details/102070144
 
 相关代码： 10_freertos_exp2
+
+N149， FreeRTOS中集成RTC功能： https://blog.csdn.net/grey_csdn/article/details/102072082
+
+相关代码： 11_freertos_rtc
