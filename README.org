@@ -9,6 +9,7 @@
 - Hello World例程（DONE）
 - LED灯闪烁(DONE)
 - 周期性定时器中断(DONE)
+- GPIO(DONE)
 - 定时器
 - 简单的周期性任务调度(DONE)
 - RTOS
@@ -115,3 +116,8 @@ N148， 利用IDE创建FreeRTOS Task： https://blog.csdn.net/grey_csdn/article/detail
 N149， FreeRTOS中集成RTC功能： https://blog.csdn.net/grey_csdn/article/details/102072082
 
 相关代码： 11_freertos_rtc
+
+- GPIO
+N150, 按键识别： https://blog.csdn.net/grey_csdn/article/details/102079925
+
+相关代码： 12_freertos_key_scan
