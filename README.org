@@ -28,7 +28,7 @@
 - J1939
 - Flash
 - CAN Bootloader
-- 蜂鸣器
+- 蜂鸣器(DONE)
 ** 开发与调试环境
 - 开发环境：STM32CubeIDE 1.0.2
 这个是从ST官方网站上找到的一个IDE，是否收费等没有去看，从目前了解到的信息看做个简单的小功能调试学习是没问题的，而这基本上可以满足我自己的需求。
@@ -121,3 +121,8 @@ N149， FreeRTOS中集成RTC功能： https://blog.csdn.net/grey_csdn/article/details/1
 N150, 按键识别： https://blog.csdn.net/grey_csdn/article/details/102079925
 
 相关代码： 12_freertos_key_scan
+
+- 蜂鸣器
+N151，蜂鸣器驱动： https://blog.csdn.net/grey_csdn/article/details/102174056
+
+相关代码： 13_beep
