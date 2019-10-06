@@ -119,6 +119,8 @@ N149， FreeRTOS中集成RTC功能： https://blog.csdn.net/grey_csdn/article/details/1
 
 相关代码： 11_freertos_rtc
 
+N154， 使用TIM1作为系统的TB： https://blog.csdn.net/grey_csdn/article/details/102227693
+
 - GPIO
 N150, 按键识别： https://blog.csdn.net/grey_csdn/article/details/102079925
 
