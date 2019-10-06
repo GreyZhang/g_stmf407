@@ -12,7 +12,7 @@
 - GPIO(DONE)
 - 定时器
 - 简单的周期性任务调度(DONE)
-- 看门狗
+- 独立看门狗(DONE)
 - 窗口看门狗(DONE)
 - RTOS
 - ADC
@@ -133,3 +133,8 @@ N151，蜂鸣器驱动： https://blog.csdn.net/grey_csdn/article/details/102174056
 N152， 窗口看门狗： https://blog.csdn.net/grey_csdn/article/details/102220331
 
 相关代码： 14_window_wdg
+
+- 独立看门狗
+N153， 独立看门狗： https://blog.csdn.net/grey_csdn/article/details/102222205
+
+相关代码： 15_iwdg
