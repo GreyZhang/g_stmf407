@@ -12,6 +12,8 @@
 - GPIO(DONE)
 - 定时器
 - 简单的周期性任务调度(DONE)
+- 看门狗
+- 窗口看门狗(DONE)
 - RTOS
 - ADC
 - CAN
@@ -126,3 +128,8 @@ N150, 按键识别： https://blog.csdn.net/grey_csdn/article/details/102079925
 N151，蜂鸣器驱动： https://blog.csdn.net/grey_csdn/article/details/102174056
 
 相关代码： 13_beep
+
+- 窗口看门狗
+N152， 窗口看门狗： https://blog.csdn.net/grey_csdn/article/details/102220331
+
+相关代码： 14_window_wdg
